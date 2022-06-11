@@ -12,6 +12,6 @@ What i implemented on Project :
   - Show Comment each post list
   - Show User with albums
   - Show Photos each albums
-  - Show Detail Photo
+  - Show Detail Photo that can be zoomed
 
 Thanks !!!
