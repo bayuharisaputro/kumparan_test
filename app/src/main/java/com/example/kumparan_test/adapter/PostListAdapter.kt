@@ -53,7 +53,7 @@ class PostListAdapter(var listPost: ArrayList<PostListViewModel.AlterPost>) : Re
             mTitle.text = data.title
             mBody.text = data.body
             mUser.text = data.user.username
-            mCompany.text =  "@${data.user?.company?.name}"
+            mCompany.text =  "${data.user?.company?.name}"
         }
     }
 }
