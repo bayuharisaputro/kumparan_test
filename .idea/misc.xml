@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/bg_rounded_username.xml" value="0.1125" />
+        <entry key="app/src/main/res/drawable/bg_rounded_button.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_rounded_error_dialog.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-land/activity_detail_photo.xml" value="0.18541666666666667" />
+        <entry key="app/src/main/res/layout-land/activity_view_all_photos.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-land/layout_error_dialog.xml" value="0.10104166666666667" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_detail_photo.xml" value="0.161231884057971" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.14010416666666667" />
+        <entry key="app/src/main/res/layout/activity_user.xml" value="0.1390625" />
+        <entry key="app/src/main/res/layout/activity_view_all_photos.xml" value="0.161231884057971" />
+        <entry key="app/src/main/res/layout/item_album.xml" value="0.14010416666666667" />
+        <entry key="app/src/main/res/layout/item_comment.xml" value="0.14010416666666667" />
+        <entry key="app/src/main/res/layout/item_post.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/layout_error_dialog.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
